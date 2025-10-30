@@ -1,0 +1,1 @@
+From team TrailPulse comes AdaptTrail: an AI platform that transforms Hong Kong's trails into adaptive training grounds. By merging real-time runner data with public trail networks, our system provides personalized, location-aware coaching to close training gaps, prevent injury, and unlock every athlete's potential.
